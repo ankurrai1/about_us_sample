@@ -120,6 +120,7 @@ footer{
 .details{
     flex: 0 1 100%;
     text-align: justify;
+    padding-left: 3px;
     font-size: 13px;
     color: gray;
     flex-direction: row
